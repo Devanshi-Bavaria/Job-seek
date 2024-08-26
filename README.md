@@ -1,31 +1,9 @@
-<div id="top"></div>
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br />
 <div align="center">
   <a href="https://github.com/stanleyclaudius/job-portal">
     <img src="public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
+  <h1 align="center">Job Portal Application</h1>
 
-  <h3 align="center">Job Portal Application</h3>
-
-  <p align="center">
-    An awesome job portal application based on website
-    <br />
-    <a href="https://github.com/stanleyclaudius/job-portal.git"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://job-portal-six.vercel.app">View Demo</a>
-    ·
-    <a href="https://github.com/stanleyclaudius/job-portal/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/stanleyclaudius/job-portal/issues">Request Feature</a>
-  </p>
 </div>
 
 <details>
@@ -65,7 +43,7 @@ Main technology used to built this application are listed below:
 * [Next.js](https://nextjs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [MongoDB](https://mongodb.com/cloud/atlas/)
-* [Vercel](https://vercel.com)
+
 
 <p align="right"><a href="#top">back to top</a></p>
 
@@ -132,19 +110,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right"><a href="#top">back to top</a></p>
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right"><a href="#top">back to top</a></p>
-
-## Contact
-
-LinkedIn: [Stanley Claudius](https://www.linkedin.com/in/stanley-claudius-4560b21b7)
-
-Project Link: [https://github.com/stanleyclaudius/job-portal](https://github.com/stanleyclaudius/job-portal)
-
-<p align="right"><a href="#top">back to top</a></p>
 
 ## Acknowledgments
 
